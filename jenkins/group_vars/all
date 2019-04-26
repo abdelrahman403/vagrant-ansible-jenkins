@@ -1,0 +1,5 @@
+# Jenkins Settings
+jenkins_url: https://pkg.jenkins.io/redhat/
+jenkins_key: https://pkg.jenkins.io/redhat/jenkins.io.key
+
+

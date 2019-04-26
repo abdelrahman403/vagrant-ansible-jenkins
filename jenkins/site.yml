@@ -1,0 +1,9 @@
+---
+- name: Installing Jenkins ..
+  hosts: all
+  user: vagrant
+  become: yes
+  roles:
+    - system
+    - jenkins
+  
